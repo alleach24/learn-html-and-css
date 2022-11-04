@@ -30,6 +30,10 @@ body {
      */
 }
 
+.words{
+    padding: 30px 0;
+}
+
 .border-blue {
     border: 1px dotted blue;
 }
