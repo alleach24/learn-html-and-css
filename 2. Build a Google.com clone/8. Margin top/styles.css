@@ -1,9 +1,15 @@
+
+div {
+    margin-top: 100px;
+}
+
 img {
     /* Challenge: 
     Add some space (margin) above our image!
     Do you remember how we added spacing in the 
     cookie widget example?
     */
+
     display: block;
     width: 300px;
 }
@@ -11,5 +17,6 @@ img {
 
 input {
     display: block;
+    margin-top: 50px;
     width: 400px;
 }

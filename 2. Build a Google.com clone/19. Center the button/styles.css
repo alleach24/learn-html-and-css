@@ -24,6 +24,13 @@
     border-radius: 24px;
 }
 
+.btn {
+    margin-top: 10px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 /*
 Challenge:
 Center the button and add some space above it

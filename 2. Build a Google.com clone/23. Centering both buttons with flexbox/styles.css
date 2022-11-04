@@ -31,9 +31,6 @@ Give the div a "btn-wrapper" class.
 }
 
 .btn {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 30px;
     background: #dfe1e5;
     border: none;
@@ -43,4 +40,12 @@ Give the div a "btn-wrapper" class.
     padding-right: 16px;
     border-radius: 4px;
     font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+
 }
